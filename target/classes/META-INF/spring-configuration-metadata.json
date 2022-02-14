@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "fish",
+      "type": "hu.lelesz2.FishProperty",
+      "sourceType": "hu.lelesz2.FishProperty"
+    }
+  ],
+  "properties": [
+    {
+      "name": "fish.size",
+      "type": "java.lang.Integer",
+      "sourceType": "hu.lelesz2.FishProperty"
+    }
+  ],
+  "hints": []
+}

@@ -1,0 +1,10 @@
+hu\lelesz2\components\Angler.class
+hu\lelesz2\components\Fish.class
+hu\lelesz2\FishProperty.class
+hu\lelesz2\FishConfiguration.class
+hu\lelesz2\Lelesz2Application.class
+hu\lelesz2\components\Lake.class
+hu\lelesz2\EventbusConfiguration.class
+hu\lelesz2\CatchFish.class
+META-INF\spring-configuration-metadata.json
+hu\lelesz2\LakeConfiguration.class
